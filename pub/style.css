@@ -335,6 +335,29 @@ html body {
     width: 100%
 }
 
+.content {
+  width: 70%;
+  text-align: center;
+  margin: 10em auto
+}
+
+.content h3{
+  font-size: 14px
+}
+
+.content img{
+  width: 350px;
+  height: 150px;
+  background-color: #4b4b4b;
+  opacity: 0.8;
+  color: #4b4b4b
+}
+
+.content img:hover{
+  opacity: 1
+}
+
+
 .brands {
     margin-top: 3em
 }
